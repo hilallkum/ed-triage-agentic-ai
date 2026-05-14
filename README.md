@@ -58,6 +58,3 @@ python agent_triage.py
 
 Python · OpenAI API (GPT-4o-mini) · Pandas · OpenPyXL · Manchester Triage System (MTS)
 
-## Reference
-
-NCI MSc Artificial Intelligence — Intelligent Automation & Process Analysis (H9IAPA), 2026
